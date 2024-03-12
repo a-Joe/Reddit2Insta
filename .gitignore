@@ -5,5 +5,4 @@ outputs/*
 pyproject.toml
 todo.txt
 sortedPosts/
-resources/avatars/*
 resources/awards_icons/*
